@@ -1,25 +1,46 @@
-### Hey, It's Ashish Patel 👋
+### Hi there, I am Ashish 👋
 
-In over seven years of software development, I have learned to be practical in software delivery. I am energetic and geek who loves his job. I live and breathe all the technologies I work with. Cloud and web development is what I enjoy every day.
+I am energetic and geek who loves his job. I live and breathe all the technologies I work with. Cloud and web development are what I enjoy every day.
 
-- Move 🌐 to ☁️
-- ✍️ Writing tech blog posts over Internet.
+- 💻 Move 🌐 to ☁️
+- ✍️ Writing tech blog posts
+- 🌱 I’m currently learning Docker and Kubernetes
+
+
+
+**💬 Ask me about**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></code>
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>-->
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>-->
 
 
 
 <details>
   <summary>Something interesting about me!</summary>
-  <br>
-  
-  - {No day without code} 💻
-  
-  - while (!sleep) { code(); } 💻
-  
-  - {Probably coding something stupid} 🤔
-  
-  - Live and learn... ☀️
+   
+  - while (!sleep) { code(); } 💻  
+  - No day without code 💻 
+  - Probably coding something stupid 🤔  
+  - Live and learn ☀️
 
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=a-patel"/>
+
+<!--
+  <p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=a-patel"/>
+  </p>
+-->
+
+<!--
   ![My github stats](https://github-readme-stats.vercel.app/api?username=a-patel&show_icons=true)
+-->
 </details>
 
 
@@ -41,9 +62,7 @@ In over seven years of software development, I have learned to be practical in s
     <a href="https://twitter.com/aashish_mrcool" alt="Twitter"><img src="https://github.com/a-patel/a-patel/blob/master/assets/twitter.png"></a>
     <a href="https://www.facebook.com/aashish.mrcool" alt="Facebook"><img src="https://github.com/a-patel/a-patel/blob/master/assets/facebook.png"></a>
     <a href="https://www.instagram.com/iamaashishpatel" alt="Instagram"><img src="https://github.com/a-patel/a-patel/blob/master/assets/instagram.png"></a>
-
-  </p>
-  
+  </p>  
 </p>
 
 
