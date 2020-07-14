@@ -1,10 +1,10 @@
-### Hi there, I am Ashish 👋
+### Hi there, I'm [Ashish!](https://aashishpatel.netlify.app) 👋
 
-I am energetic and geek who loves his job. I live and breathe all the technologies I work with. Cloud and web development are what I enjoy every day.
+I am energetic and geek who loves his job. I live and breathe all the technologies I work with.
 
 - 💻 Move 🌐 to ☁️
-- ✍️ Writing tech blog posts
-- 🌱 I’m currently learning Docker and Kubernetes
+- ✍️ Writing technical blogs
+- 🌱 Learning Docker and Kubernetes
 
 
 
@@ -24,13 +24,12 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <details>
   <summary>Something interesting about me!</summary>
    
-  - while (!sleep) { code(); } 💻  
-  - No day without code 💻 
-  - Probably coding something stupid 🤔  
+  - No day without code 💻
+  - Probably coding something stupid 🤔
   - Live and learn ☀️
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=a-patel"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=a-patel"/>
 
 <!--
   <p align="center">
