@@ -2,8 +2,9 @@
 
 I am energetic and geek who loves his job. I live and breathe all the technologies I work with.
 
-- 💻 Move 🌐 to ☁️
-- ✍️ Writing technical blogs
+- 👨‍💻 Move 🌐 to ☁️
+- ✍️ Writing technical blogs - [Medium](https://medium.com/@iamaashishpatel/)
+- 🎖️ Accreditation - [Acclaim](https://www.youracclaim.com/users/iamaashishpatel/)
 - 🌱 Learning Docker and Kubernetes
 
 
@@ -20,16 +21,19 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>-->
 
 
+<br/>
+
 
 <details>
-  <summary>Something interesting about me!</summary>
+  <summary>😄 Something interesting about me!</summary>
    
   - No day without code 💻
   - Probably coding something stupid 🤔
   - Live and learn ☀️
 
-
+<!--
   <img src="https://visitor-badge.glitch.me/badge?page_id=a-patel"/>
+-->
 
 <!--
   <p align="center">
@@ -49,7 +53,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <hr>
 
 <p align="center">
-  <i>Reach out to me at one of the following places!</i>
+  <i>📫 Reach out to me at one of the following places!</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img src="https://github.com/a-patel/a-patel/blob/master/assets/linkedin.png"></a>
@@ -71,7 +75,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
 
 <!--
-**a-patel/a-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨
 
 Here are some ideas to get you started:
 
