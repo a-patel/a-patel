@@ -16,6 +16,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <code><a href="https://medium.com/aspnetcore"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>
 <code><a href="https://medium.com/docker-and-kubernetes"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></a></code>
 <code><a href="https://medium.com/docker-and-kubernetes"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></a></code>
+<code><a href="https://medium.com/@iamaashishpatel"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></a></code>
 <code><a href="https://medium.com/awesome-angular"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></a></code>
 <!--<code><a href="https://medium.com/@iamaashishpatel"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></a></code>-->
 <!--<code><a href="https://medium.com/@iamaashishpatel"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></a></code>-->
