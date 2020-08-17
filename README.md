@@ -57,15 +57,15 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
   <i>📫 Reach out to me at one of the following places!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img src="https://github.com/a-patel/a-patel/blob/master/assets/linkedin.png"></a>
-    <a href="https://aashishpatel.netlify.app" alt="Website"><img src="https://github.com/a-patel/a-patel/blob/master/assets/website.png"></a>
-    <a href="https://medium.com/@iamaashishpatel" alt="Medium"><img src="https://github.com/a-patel/a-patel/blob/master/assets/medium.png"></a>
-    <a href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img src="https://github.com/a-patel/a-patel/blob/master/assets/nuget.png"></a>
-    <a href="https://github.com/a-patel" alt="GitHub"><img src="https://github.com/a-patel/a-patel/blob/master/assets/github.png"></a>
-    <a href="https://docs.microsoft.com/en-us/users/iamaashishpatel" alt="Microsoft"><img src="https://github.com/a-patel/a-patel/blob/master/assets/microsoft.png"></a>
-    <a href="https://twitter.com/aashish_mrcool" alt="Twitter"><img src="https://github.com/a-patel/a-patel/blob/master/assets/twitter.png"></a>
-    <a href="https://www.facebook.com/aashish.mrcool" alt="Facebook"><img src="https://github.com/a-patel/a-patel/blob/master/assets/facebook.png"></a>
-    <a href="https://www.instagram.com/iamaashishpatel" alt="Instagram"><img src="https://github.com/a-patel/a-patel/blob/master/assets/instagram.png"></a>
+    <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img src="https://github.com/a-patel/a-patel/blob/master/assets/linkedin.png"></a>
+    <a title="Portfolio" href="https://aashishpatel.netlify.app" alt="Website"><img src="https://github.com/a-patel/a-patel/blob/master/assets/website.png"></a>
+    <a title="Medium" href="https://medium.com/@iamaashishpatel" alt="Medium"><img src="https://github.com/a-patel/a-patel/blob/master/assets/medium.png"></a>
+    <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img src="https://github.com/a-patel/a-patel/blob/master/assets/nuget.png"></a>
+    <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img src="https://github.com/a-patel/a-patel/blob/master/assets/github.png"></a>
+    <a title="Microsoft" href="https://docs.microsoft.com/en-us/users/iamaashishpatel" alt="Microsoft"><img src="https://github.com/a-patel/a-patel/blob/master/assets/microsoft.png"></a>
+    <a title="Twitter" href="https://twitter.com/aashish_mrcool" alt="Twitter"><img src="https://github.com/a-patel/a-patel/blob/master/assets/twitter.png"></a>
+    <a title="Facebook" href="https://www.facebook.com/aashish.mrcool" alt="Facebook"><img src="https://github.com/a-patel/a-patel/blob/master/assets/facebook.png"></a>
+    <a title="Instagram" href="https://www.instagram.com/iamaashishpatel" alt="Instagram"><img src="https://github.com/a-patel/a-patel/blob/master/assets/instagram.png"></a>
   </p>  
 </p>
 
