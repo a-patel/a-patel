@@ -47,7 +47,13 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 -->
 </details>
 
-
+<details>
+<summary>View My GitHub Stats</summary>
+<p align="center">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-patel&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="a-patel's github stats"/>
+    <br>
+</p>
+</details> 
 
 
 
