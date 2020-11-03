@@ -3,7 +3,7 @@
 I am energetic and geek who loves his job. I live and breathe all the technologies I work with.
 
 - 👨‍💻 Move 🌐 to ☁️
-- ✍️ Writing technical blogs - [Medium](https://medium.com/@iamaashishpatel/)
+- ✍️ Writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)
 - 🎖️ Accreditation - [Acclaim](https://www.youracclaim.com/users/iamaashishpatel/)
 - 🌱 Learning Docker and Kubernetes
 
@@ -16,10 +16,10 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <code><a title=".NET" href="https://medium.com/aspnetcore"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>
 <code><a title="Docker" href="https://medium.com/docker-and-kubernetes"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></a></code>
 <code><a title="Kubernetes" href="https://medium.com/docker-and-kubernetes"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></a></code>
-<code><a title="Terraform" href="https://medium.com/@iamaashishpatel"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></a></code>
+<code><a title="Terraform" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></a></code>
 <code><a title="Angular" href="https://medium.com/awesome-angular"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></a></code>
-<!--<code><a title="GCP" href="https://medium.com/@iamaashishpatel"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></a></code>-->
-<!--<code><a title="Linux" href="https://medium.com/@iamaashishpatel"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></a></code>-->
+<!--<code><a title="GCP" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></a></code>-->
+<!--<code><a title="Linux" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></a></code>-->
 
 
 <br/>
@@ -65,7 +65,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
   <p align="center">
     <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img src="https://github.com/a-patel/a-patel/blob/master/assets/linkedin.png"></a>
     <a title="Portfolio" href="https://aashishpatel.netlify.app" alt="Website"><img src="https://github.com/a-patel/a-patel/blob/master/assets/website.png"></a>
-    <a title="Medium" href="https://medium.com/@iamaashishpatel" alt="Medium"><img src="https://github.com/a-patel/a-patel/blob/master/assets/medium.png"></a>
+    <a title="Medium" href="https://iamaashishpatel.medium.com" alt="Medium"><img src="https://github.com/a-patel/a-patel/blob/master/assets/medium.png"></a>
     <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img src="https://github.com/a-patel/a-patel/blob/master/assets/nuget.png"></a>
     <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img src="https://github.com/a-patel/a-patel/blob/master/assets/github.png"></a>
     <a title="Microsoft" href="https://docs.microsoft.com/en-us/users/iamaashishpatel" alt="Microsoft"><img src="https://github.com/a-patel/a-patel/blob/master/assets/microsoft.png"></a>
