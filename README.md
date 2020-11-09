@@ -3,6 +3,7 @@
 I am energetic and geek who loves his job. I live and breathe all the technologies I work with.
 
 - 👨‍💻 Move 🌐 to ☁️
+- 🏆 AWS Community Builder 
 - ✍️ Writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)
 - 🎖️ Accreditation - [Acclaim](https://www.youracclaim.com/users/iamaashishpatel/)
 - 🌱 Learning Docker and Kubernetes
