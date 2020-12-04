@@ -2,8 +2,8 @@
 
 I am energetic and geek who loves his job. I live and breathe all the technologies I work with.
 
-- 👨‍💻 Move 🌐 to ☁️
-- 🏆 AWS Community Builder 
+- 🏆 AWS Community Builder
+- 👨‍💻 Move 🌐 to ☁️ 
 - ✍️ Writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)
 - 🎖️ Accreditation - [Acclaim](https://www.youracclaim.com/users/iamaashishpatel/)
 - 🌱 Learning Docker and Kubernetes
@@ -18,8 +18,8 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <code><a title="Docker" href="https://medium.com/docker-and-kubernetes"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></a></code>
 <code><a title="Kubernetes" href="https://medium.com/docker-and-kubernetes"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></a></code>
 <code><a title="Terraform" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></a></code>
-<code><a title="Angular" href="https://medium.com/awesome-angular"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></a></code>
-<!--<code><a title="GCP" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></a></code>-->
+<code><a title="GCP" href="https://iamaashishpatel.medium.com"><img height="20" src="https://github.com/a-patel/a-patel/blob/master/assets/gcp.png"></a></code>
+<!--<code><a title="Angular" href="https://medium.com/awesome-angular"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></a></code>-->
 <!--<code><a title="Linux" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></a></code>-->
 
 
