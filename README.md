@@ -14,10 +14,10 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
 <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>
 <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>
-<code><a title=".NET" href="https://medium.com/aspnetcore"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>
-<code><a title="Docker" href="https://medium.com/docker-and-kubernetes"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></a></code>
-<code><a title="Kubernetes" href="https://medium.com/docker-and-kubernetes"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></a></code>
-<code><a title="Terraform" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></a></code>
+<code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>
+<code><a title="Docker" href="https://medium.com/devops-mojo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></a></code>
+<code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></a></code>
+<code><a title="Terraform" href="https://medium.com/devops-mojo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></a></code>
 <code><a title="GCP" href="https://iamaashishpatel.medium.com"><img height="20" src="https://github.com/a-patel/a-patel/blob/master/assets/gcp.png"></a></code>
 <!--<code><a title="Angular" href="https://medium.com/awesome-angular"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></a></code>-->
 <!--<code><a title="Linux" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></a></code>-->
