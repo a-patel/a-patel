@@ -6,7 +6,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 - 👨‍💻 Move 🌐 to ☁️ 
 - ✍️ Writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)
 - 🎖️ Accreditation - [Acclaim](https://www.credly.com/users/iamaashishpatel/)
-- 🌱 Learning Docker and Kubernetes
+- 🌱 Learning DevOps technologies
 
 
 
@@ -15,9 +15,9 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>
 <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>
 <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>
-<code><a title="Docker" href="https://medium.com/devops-mojo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></a></code>
+<!--<code><a title="Docker" href="https://medium.com/devops-mojo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></a></code>-->
 <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></a></code>
-<code><a title="Terraform" href="https://medium.com/devops-mojo"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></a></code>
+<code><a title="Terraform" href="https://medium.com/devops-mojo/tagged/terraform"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></a></code>
 <code><a title="GCP" href="https://iamaashishpatel.medium.com"><img height="20" src="https://github.com/a-patel/a-patel/blob/master/assets/gcp.png"></a></code>
 <!--<code><a title="Angular" href="https://medium.com/awesome-angular"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></a></code>-->
 <!--<code><a title="Linux" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></a></code>-->
@@ -67,8 +67,8 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
     <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img src="https://github.com/a-patel/a-patel/blob/master/assets/linkedin.png"></a>
     <a title="Portfolio" href="https://aashishpatel.netlify.app" alt="Website"><img src="https://github.com/a-patel/a-patel/blob/master/assets/website.png"></a>
     <a title="Medium" href="https://iamaashishpatel.medium.com" alt="Medium"><img src="https://github.com/a-patel/a-patel/blob/master/assets/medium.png"></a>
-    <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img src="https://github.com/a-patel/a-patel/blob/master/assets/nuget.png"></a>
     <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img src="https://github.com/a-patel/a-patel/blob/master/assets/github.png"></a>
+    <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img src="https://github.com/a-patel/a-patel/blob/master/assets/nuget.png"></a>
     <a title="Microsoft" href="https://docs.microsoft.com/en-us/users/iamaashishpatel" alt="Microsoft"><img src="https://github.com/a-patel/a-patel/blob/master/assets/microsoft.png"></a>
     <a title="Twitter" href="https://twitter.com/aashish_mrcool" alt="Twitter"><img src="https://github.com/a-patel/a-patel/blob/master/assets/twitter.png"></a>
     <a title="Facebook" href="https://www.facebook.com/aashish.mrcool" alt="Facebook"><img src="https://github.com/a-patel/a-patel/blob/master/assets/facebook.png"></a>
@@ -88,7 +88,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Cloud technologies...
-- 🌱 I’m currently learning Docker and Kubernetes...
+- 🌱 I’m currently learning DevOps technologies...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
