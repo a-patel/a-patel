@@ -1,6 +1,9 @@
 ### Hi there, I'm [Ashish!](https://aashishpatel.netlify.app) 👋
 
-I am energetic and geek who loves his job. I live and breathe all the technologies I work with. I believe in self CI/CD (Continuous Improvements/Continuous Development).
+I am energetic and geek who loves his job. I live and breathe all the technologies I work with. 
+
+I believe in self CI/CD (Continuous Improvements/Continuous Development).
+
 
 - 🏆 AWS Community Builder
 - 👨‍💻 Move 🌐 to ☁️ 
@@ -9,18 +12,31 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)
 <!--- 🌱 Learning DevOps technologies-->
 
-
 <br/>
-
 
 **💬 Ask me about**
 
 <a title="AWS" href="https://medium.com/awesome-cloud"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a>
 <a title="Azure" href="https://medium.com/awesome-azure"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a>
 <a title=".NET" href="https://medium.com/dotnet-hub"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a>
-<a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="40" src="tps://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
+<a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
 <a title="Terraform" href="https://medium.com/devops-mojo/tagged/terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
 <a title="GCP" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
+
+
+<!--<a title="Docker" href="https://medium.com/devops-mojo/tagged/docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a>
+<a title="Helm" href="https://medium.com/devops-mojo/tagged/helm"><img height="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></a>
+<a title="Prometheus" href="https://medium.com/devops-mojo/tagged/prometheus"><img height="40" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></a>
+<a title="Grafana" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></a>
+<a title="Ansible" href="https://medium.com/devops-mojo/tagged/ansible"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>-->
+
+
+<!--<a title="Python" href="https://github.com/a-patel/aws-lambda-python-labs"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
+<a title="Linux" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
+<a title="Bash" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></a>
+<a title="Jenkins" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a>
+<a title="Angular" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a>-->
+
 
 <!--<code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>
 <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>
@@ -32,9 +48,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <!--<code><a title="Angular" href="https://medium.com/awesome-angular"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></a></code>-->
 <!--<code><a title="Linux" href="https://iamaashishpatel.medium.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></a></code>-->
 
-
 <br/>
-
 
 ### 📕️ My Publications
 - [Awesome Cloud](https://medium.com/awesome-cloud) <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code> (2.6k+ followers)
@@ -85,7 +99,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
   <i>📫 Reach out to me at one of the following places!</i>
 
   <p align="center">
-    <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img src="https://github.com/a-patel/a-patel/blob/master/assets/linkedin.png"></a>
+    <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
     <a title="Portfolio" href="https://aashishpatel.netlify.app" alt="Website"><img src="https://github.com/a-patel/a-patel/blob/master/assets/website.png"></a>
     <a title="Medium" href="https://iamaashishpatel.medium.com" alt="Medium"><img src="https://github.com/a-patel/a-patel/blob/master/assets/medium.png"></a>
     <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img src="https://github.com/a-patel/a-patel/blob/master/assets/github.png"></a>
