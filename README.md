@@ -21,7 +21,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
 <a title="Terraform" href="https://medium.com/devops-mojo/tagged/terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
 <a title="GCP" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
-<a title="Docker" href="https://medium.com/devops-mojo/tagged/docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a>
+<a title="Docker" href="https://medium.com/devops-mojo/tagged/docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
 <a title="Helm" href="https://medium.com/devops-mojo/tagged/helm"><img height="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></a>
 <a title="Prometheus" href="https://medium.com/devops-mojo/tagged/prometheus"><img height="40" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></a>
 <a title="Grafana" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></a>
@@ -33,6 +33,16 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <a title="Ansible" href="https://medium.com/devops-mojo/tagged/ansible"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>
 <a title="Istio" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg"></a>
 <a title="Angular" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a>-->
+
+
+
+### 🎖️ Certifications
+
+<a title="AWS Certified Solutions Architect – Professional" href="https://www.credly.com/badges/73aee1b9-4d68-4ac0-8ac7-245ec6ad2811"><img height="60" src="https://images.credly.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png"></a>
+<a title="AWS Certified Solutions Architect – Associate" href="https://www.credly.com/badges/ec64da3a-4508-4b01-a937-7e694d1fc254"><img height="60" src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></a>
+<a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://www.credly.com/badges/7acb9855-2996-4fbd-abce-7806316ddfb3"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
+<a title="Microsoft Certified: Azure Administrator Associate" href="https://www.credly.com/badges/ebf5cbd6-f155-4a09-bbc4-779d5b96fbd2"><img height="60" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
+<a title="Microsoft Certified: Azure Developer Associate" href="https://www.credly.com/badges/3b2009cd-4c2f-4102-bf65-8cdb9ab48f70"><img height="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"></a>
 
 
 
