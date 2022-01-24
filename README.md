@@ -98,15 +98,15 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
   <i>📫 Reach out to me at one of the following places!</i>
 
   <p align="center">
-    <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-    <a title="Portfolio" href="https://aashishpatel.netlify.app" alt="Website"><img height="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-website-multimedia-kiranshastry-lineal-color-kiranshastry.png"></a>
-    <a title="Medium" href="https://iamaashishpatel.medium.com" alt="Medium"><img height="40" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"></a>
-    <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
-    <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img height="40" src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg"></a>
-    <a title="Microsoft" href="https://docs.microsoft.com/en-us/users/iamaashishpatel" alt="Microsoft"><img height="40" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></a>
-    <a title="Twitter" href="https://twitter.com/aashish_mrcool" alt="Twitter"><img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>
-    <a title="Facebook" href="https://www.facebook.com/aashish.mrcool" alt="Facebook"><img height="40" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a>
-    <a title="Instagram" href="https://www.instagram.com/iamaashishpatel" alt="Instagram"><img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
+    <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>&nbsp; 
+    <a title="Portfolio" href="https://aashishpatel.netlify.app" alt="Website"><img height="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-website-multimedia-kiranshastry-lineal-color-kiranshastry.png"></a>&nbsp; 
+    <a title="Medium" href="https://iamaashishpatel.medium.com" alt="Medium"><img height="40" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"></a>&nbsp; 
+    <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>&nbsp; 
+    <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img height="40" src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg"></a>&nbsp; 
+    <a title="Microsoft" href="https://docs.microsoft.com/en-us/users/iamaashishpatel" alt="Microsoft"><img height="40" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></a>&nbsp; 
+    <a title="Twitter" href="https://twitter.com/aashish_mrcool" alt="Twitter"><img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>&nbsp; 
+    <a title="Facebook" href="https://www.facebook.com/aashish.mrcool" alt="Facebook"><img height="40" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a>&nbsp; 
+    <a title="Instagram" href="https://www.instagram.com/iamaashishpatel" alt="Instagram"><img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>&nbsp; 
   </p>  
 </p>
 
