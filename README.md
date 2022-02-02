@@ -1,4 +1,4 @@
-### Hi there, I'm [Ashish!](https://aashishpatel.netlify.app) 👋
+### Hi there, I'm [Ashish!](https://iamaashishpatel.ml) 👋
 
 I am energetic and geek who loves his job. I live and breathe all the technologies I work with. 
 
