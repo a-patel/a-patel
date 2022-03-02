@@ -6,7 +6,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
 - 🏆 AWS Community Builder
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (3.6k+ followers)
+- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (3.7k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (10+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (9+ years)
 <!--- 🌱 Learning DevOps technologies-->
@@ -50,7 +50,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 ### 📕️ My Publications
 
 - [Awesome Cloud](https://medium.com/awesome-cloud)  <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>  (2.9k+ followers)
-- [Awesome Azure](https://medium.com/awesome-azure)  <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>  (1.0k+ followers)
+- [Awesome Azure](https://medium.com/awesome-azure)  <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>  (1.1k+ followers)
 - [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (500+ followers)
 - [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (1.6k+ followers)
 
@@ -99,7 +99,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
   <p align="center">
     <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>&nbsp; 
-    <a title="Portfolio" href="https://aashishpatel.netlify.app" alt="Website"><img height="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-website-multimedia-kiranshastry-lineal-color-kiranshastry.png"></a>&nbsp; 
+    <a title="Portfolio" href="https://iamaashishpatel.ml" alt="Website"><img height="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-website-multimedia-kiranshastry-lineal-color-kiranshastry.png"></a>&nbsp; 
     <a title="Medium" href="https://iamaashishpatel.medium.com" alt="Medium"><img height="40" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"></a>&nbsp; 
     <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>&nbsp; 
     <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img height="40" src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg"></a>&nbsp; 
