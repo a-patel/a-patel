@@ -6,7 +6,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
 - 🏆 AWS Community Builder
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (4.6k+ followers)
+- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (4.7k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (10+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (9.5+ years)
 <!--- 🌱 Learning DevOps technologies-->
@@ -111,6 +111,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
     <a title="Twitter" href="https://twitter.com/aashish_mrcool" alt="Twitter"><img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>&nbsp; 
     <a title="Facebook" href="https://www.facebook.com/aashish.mrcool" alt="Facebook"><img height="40" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a>&nbsp; 
     <a title="Instagram" href="https://www.instagram.com/iamaashishpatel" alt="Instagram"><img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>&nbsp; 
+    <a title="Linktree" href="https://linktr.ee/iamaashishpatel" alt="Linktree"><img height="40" src="https://img.icons8.com/color/100/000000/linktree.png"></a>&nbsp; 
   </p>  
 </p>
 
