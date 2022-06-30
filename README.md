@@ -8,7 +8,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 - 👨‍💻 Move 🌐 to ☁️ 
 - ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (5.0k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (10+ certifications)
-- 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (9.5+ years)
+- 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (10+ years)
 <!--- 🌱 Learning DevOps technologies-->
 
 
@@ -21,10 +21,10 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
 <a title="Terraform" href="https://medium.com/devops-mojo/tagged/terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
 <a title="GCP" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
-<a title="Docker" href="https://medium.com/devops-mojo/tagged/docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
 
 
-<!--<a title="Helm" href="https://medium.com/devops-mojo/tagged/helm"><img height="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></a>
+<!--<a title="Docker" href="https://medium.com/devops-mojo/tagged/docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
+<a title="Helm" href="https://medium.com/devops-mojo/tagged/helm"><img height="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></a>
 <a title="Prometheus" href="https://medium.com/devops-mojo/tagged/prometheus"><img height="40" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></a>
 <a title="Grafana" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></a>
 <a title="Istio" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg"></a>
@@ -55,7 +55,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
 - [Awesome Cloud](https://medium.com/awesome-cloud)  <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>  (3.1k+ followers)
 - [Awesome Azure](https://medium.com/awesome-azure)  <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>  (1.2k+ followers)
-- [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (625+ followers)
+- [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (650+ followers)
 - [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (1.8k+ followers)
 
 
