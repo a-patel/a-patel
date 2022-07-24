@@ -6,7 +6,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
 - 🏆 AWS Community Builder
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (5.2k+ followers)
+- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (5.4k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (10+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (10+ years)
 <!--- 🌱 Learning DevOps technologies-->
@@ -45,7 +45,7 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <a title="AWS Certified Solutions Architect – Professional" href="https://www.credly.com/badges/73aee1b9-4d68-4ac0-8ac7-245ec6ad2811"><img height="60" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></a>
 <a title="AWS Certified Solutions Architect – Associate" href="https://www.credly.com/badges/ec64da3a-4508-4b01-a937-7e694d1fc254"><img height="60" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 <a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://www.credly.com/badges/7acb9855-2996-4fbd-abce-7806316ddfb3"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
-<a title="Microsoft Certified: Azure Administrator Associate" href="https://www.credly.com/badges/ebf5cbd6-f155-4a09-bbc4-779d5b96fbd2"><img height="60" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
+<a title="Microsoft Certified: Azure Administrator Associate" href="https://www.credly.com/badges/0efabe5b-3d36-4015-a69b-184520b2a351"><img height="60" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
 <a title="Microsoft Certified: Azure Developer Associate" href="https://www.credly.com/badges/3b2009cd-4c2f-4102-bf65-8cdb9ab48f70"><img height="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"></a>
 <a title="MCP: Exam 486: Developing ASP.NET MVC Web Applications" href="https://www.credly.com/badges/087c4b74-fc66-4da3-b08a-aabc972f449d"><img height="60" src="https://images.credly.com/size/680x680/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png"></a>
 
@@ -53,9 +53,9 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
 ### 📕️ My Publications
 
-- [Awesome Cloud](https://medium.com/awesome-cloud)  <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>  (3.1k+ followers)
+- [Awesome Cloud](https://medium.com/awesome-cloud)  <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>  (3.2k+ followers)
 - [Awesome Azure](https://medium.com/awesome-azure)  <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>  (1.2k+ followers)
-- [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (675+ followers)
+- [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (700+ followers)
 - [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (1.9k+ followers)
 
 
