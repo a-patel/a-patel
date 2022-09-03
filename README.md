@@ -44,10 +44,10 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 
 <a title="AWS Certified Solutions Architect – Professional" href="https://www.credly.com/badges/73aee1b9-4d68-4ac0-8ac7-245ec6ad2811"><img height="60" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></a>
 <a title="AWS Certified Solutions Architect – Associate" href="https://www.credly.com/badges/ec64da3a-4508-4b01-a937-7e694d1fc254"><img height="60" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
-<a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://www.credly.com/badges/7acb9855-2996-4fbd-abce-7806316ddfb3"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
+<a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://www.credly.com/badges/65395780-acfc-49e8-a639-745c1de31d55"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
 <a title="Microsoft Certified: Azure Administrator Associate" href="https://www.credly.com/badges/0efabe5b-3d36-4015-a69b-184520b2a351"><img height="60" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
-<a title="Microsoft Certified: Azure Developer Associate" href="https://www.credly.com/badges/3b2009cd-4c2f-4102-bf65-8cdb9ab48f70"><img height="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"></a>
-<a title="MCP: Exam 486: Developing ASP.NET MVC Web Applications" href="https://www.credly.com/badges/087c4b74-fc66-4da3-b08a-aabc972f449d"><img height="60" src="https://images.credly.com/size/680x680/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png"></a>
+<a title="Microsoft Certified: Azure Developer Associate" href="https://www.credly.com/badges/ee38d74b-1d09-4482-a2aa-596307b97fac"><img height="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"></a>
+<a title="MCP: Exam 486: Developing ASP.NET MVC Web Applications" href="https://www.credly.com/badges/a5246e36-00a6-4816-9cf6-1b8af57812ee"><img height="60" src="https://images.credly.com/size/680x680/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png"></a>
 
 
 
