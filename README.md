@@ -1,12 +1,12 @@
 ### Hi there, I'm [Ashish!](https://iamaashishpatel.ml) 👋
 
-I am energetic and geek who loves his job. I live and breathe all the technologies I work with. I am a Technology Architect in the Cloud and DevOps space.
+I am a Technology Architect in the Cloud and DevOps space. I am energetic and geek who loves his job. I live and breathe all the technologies I work with.
 
 
 
 - 🏆 AWS Community Builder
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (5.9k+ followers)
+- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (6.0k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (10+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (10+ years)
 <!--- 🌱 Learning DevOps technologies-->
