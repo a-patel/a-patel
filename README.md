@@ -6,7 +6,7 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 
 - 🏆 AWS Community Builder
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (6.0k+ followers)
+- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (6.1k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (10+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (10+ years)
 <!--- 🌱 Learning DevOps technologies-->
@@ -57,7 +57,7 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 - [Awesome Cloud](https://medium.com/awesome-cloud)  <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>  (3.25k+ followers)
 - [Awesome Azure](https://medium.com/awesome-azure)  <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>  (1.3k+ followers)
 - [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (750+ followers)
-- [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (1.95k+ followers)
+- [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (2.0k+ followers)
 
 
 
