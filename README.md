@@ -7,7 +7,7 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 - 🏆 AWS Community Builder
 - 👨‍💻 Move 🌐 to ☁️ 
 - ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (6.3k+ followers)
-- 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (10+ certifications)
+- 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (20+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (10+ years)
 <!--- 🌱 Learning DevOps technologies-->
 
@@ -43,8 +43,9 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 ### 🎖️ Certifications
 
 <a title="AWS Certified Solutions Architect – Professional" href="https://www.credly.com/badges/73aee1b9-4d68-4ac0-8ac7-245ec6ad2811"><img height="60" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></a>
-<a title="AWS Certified Solutions Architect – Associate" href="https://www.credly.com/badges/ec64da3a-4508-4b01-a937-7e694d1fc254"><img height="60" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 <a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://www.credly.com/badges/65395780-acfc-49e8-a639-745c1de31d55"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
+<a title="KCNA: Kubernetes and Cloud Native Associate" href="https://www.credly.com/badges/0983553b-8e13-4d40-a11d-68ea49f528ab"><img height="60" src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png"></a>
+<a title="AWS Certified Solutions Architect – Associate" href="https://www.credly.com/badges/ec64da3a-4508-4b01-a937-7e694d1fc254"><img height="60" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 <a title="Microsoft Certified: Azure DevOps Engineer Expert" href="https://www.credly.com/badges/0f12aa60-09fb-431d-8f50-6f98747efbd4"><img height="60" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"></a>
 <a title="Microsoft Certified: Azure Administrator Associate" href="https://www.credly.com/badges/0efabe5b-3d36-4015-a69b-184520b2a351"><img height="60" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
 <a title="Microsoft Certified: Azure Developer Associate" href="https://www.credly.com/badges/ee38d74b-1d09-4482-a2aa-596307b97fac"><img height="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"></a>
@@ -54,9 +55,9 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 
 ### 📕️ My Publications
 
-- [Awesome Cloud](https://medium.com/awesome-cloud)  <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>  (3.25k+ followers)
+- [Awesome Cloud](https://medium.com/awesome-cloud)  <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>  (3.3k+ followers)
 - [Awesome Azure](https://medium.com/awesome-azure)  <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>  (1.3k+ followers)
-- [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (750+ followers)
+- [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (775+ followers)
 - [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (2.0k+ followers)
 
 
