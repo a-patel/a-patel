@@ -6,8 +6,8 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 
 - 🏆 AWS Community Builder
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (6.3k+ followers)
-- 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (20+ certifications)
+- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (6.4k+ followers)
+- 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (15+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (10+ years)
 <!--- 🌱 Learning DevOps technologies-->
 
