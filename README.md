@@ -4,7 +4,7 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 
 
 
-- 🏆 AWS Community Builder (3 times)
+- 🏆 AWS Community Builder - [3 times](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.q=ashishkumar%2Bpatel)
 - 👨‍💻 Move 🌐 to ☁️ 
 - ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (7.0k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (15+ certifications)
