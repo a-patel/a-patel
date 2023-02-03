@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ashish!](https://iamaashishpatel.ml) 👋
 
-Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong background in software engineering, he has been coding with various C#, .NET, and .NET Core for the past 10+ years. In recent times, Ashish has been focused on Cloud, DevOps, and Kubernetes. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
+Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong background in software engineering, he has been coding with C#, .NET, and .NET Core for the past 10+ years. In recent times, Ashish has been focused on Cloud, DevOps, and Kubernetes. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
 
 
 
