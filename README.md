@@ -1,4 +1,4 @@
-### Hi there, I'm [Ashish!](https://iamaashishpatel.ml) 👋
+### Hi there, I'm [Ashish!](https://aashishpatel.netlify.app) 👋
 
 Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong background in software engineering, he has been coding with C#, .NET, and .NET Core for the past 10+ years. In recent times, Ashish has been focused on Cloud, DevOps, and Kubernetes. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
 
@@ -6,7 +6,7 @@ Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong 
 
 - 🏆 AWS Community Builder ([3 times](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.q=ashishkumar%2Bpatel))
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (7.1k+ followers)
+- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (7.2k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (15+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (10+ years)
 <!--- 🌱 Learning DevOps technologies-->
@@ -105,7 +105,7 @@ Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong 
 
   <p align="center">
     <a title="LinkedIn" href="https://www.linkedin.com/in/iamaashishpatel" alt="Linkedin"><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>&nbsp; 
-    <a title="Portfolio" href="https://iamaashishpatel.ml" alt="Website"><img height="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-website-multimedia-kiranshastry-lineal-color-kiranshastry.png"></a>&nbsp; 
+    <a title="Portfolio" href="https://aashishpatel.netlify.app" alt="Website"><img height="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-website-multimedia-kiranshastry-lineal-color-kiranshastry.png"></a>&nbsp; 
     <a title="Medium" href="https://iamaashishpatel.medium.com" alt="Medium"><img height="40" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg"></a>&nbsp; 
     <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>&nbsp; 
     <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img height="40" src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg"></a>&nbsp; 
