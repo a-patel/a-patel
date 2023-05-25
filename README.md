@@ -6,7 +6,7 @@ Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong 
 
 - 🏆 AWS Community Builder ([3 times](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.q=ashishkumar%2Bpatel))
 - 👨‍💻 Move 🌐 to ☁️ 
-- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (8.0k+ followers)
+- ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (8.1k+ followers)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (15+ certifications)
 - 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (10+ years)
 <!--- 🌱 Learning DevOps technologies-->
@@ -59,7 +59,7 @@ Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong 
 - [Awesome Cloud](https://medium.com/awesome-cloud)  <code><a title="AWS" href="https://medium.com/awesome-cloud"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a></code>  (3.5k+ followers)
 - [Awesome Azure](https://medium.com/awesome-azure)  <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>  (1.5k+ followers)
 - [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (900+ followers)
-- [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (2.15k+ followers)
+- [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (2.2k+ followers)
 
 
 
