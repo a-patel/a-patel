@@ -112,7 +112,7 @@ Ashish is a Technology Architect in the Cloud space. He has a strong background 
     <a title="GitHub" href="https://github.com/a-patel" alt="GitHub"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>&nbsp; 
     <a title="NuGet" href="https://nuget.org/profiles/iamaashishpatel" alt="NuGet"><img height="40" src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg"></a>&nbsp; 
     <a title="Microsoft" href="https://docs.microsoft.com/en-us/users/iamaashishpatel" alt="Microsoft"><img height="40" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></a>&nbsp; 
-    <a title="Twitter" href="https://twitter.com/aashish_mrcool" alt="Twitter"><img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>&nbsp; 
+    <a title="Twitter" href="https://x.com/aashish_mrcool" alt="Twitter"><img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>&nbsp; 
     <a title="Facebook" href="https://www.facebook.com/aashish.mrcool" alt="Facebook"><img height="40" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a>&nbsp; 
     <a title="Instagram" href="https://www.instagram.com/iamaashishpatel" alt="Instagram"><img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>&nbsp; 
     <a title="Linktree" href="https://linktr.ee/iamaashishpatel" alt="Linktree"><img height="40" src="https://assets.production.linktr.ee/9545a375473fb8640e8f61bda88e1131d221b5ee/images/logo_trees.svg"></a>&nbsp; 
