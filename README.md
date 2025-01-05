@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ashish!](https://aashishpatel.netlify.app) 👋
 
-Ashish is a Technology Architect in the Cloud space. He has a strong background in software engineering, he has been coding with C#, and .NET Core for the past 11+ years. In recent times, Ashish has been focused on Multi-Cloud, DevOps, and Multi-tenant SaaS development. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
+Ashish is a Technology Architect in the Cloud space. He has a strong background in software engineering, he has been coding with C#, and .NET Core for the past 12+ years. In recent times, Ashish has been focused on Multi-Cloud, DevOps, and Multi-tenant SaaS development. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
 
 
 
@@ -8,7 +8,7 @@ Ashish is a Technology Architect in the Cloud space. He has a strong background 
 - 👨‍💻 Move 🌐 to ☁️ 
 - ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (20k+ followers, 7m+ views)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (15+ certifications)
-- 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (11+ years)
+- 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (12+ years)
 <!--- 🌱 Learning DevOps technologies-->
 
 
