@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ashish!](https://aashishpatel.netlify.app) 👋
 
-Ashish is a Technology Architect in the Cloud space. He has a strong background in software engineering, he has been coding with C#, and .NET Core for the past 12+ years. In recent times, Ashish has been focused on Multi-Cloud, DevOps, and Multi-tenant SaaS development. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
+Ashish is a Technology Architect in the Cloud space. He has a strong background in software engineering, he has been coding with C#, and .NET Core for the past 12+ years. In recent times, Ashish has been focused on Multi-Cloud, DevOps, and SaaS development. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
 
 
 
