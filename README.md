@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ashish!](https://aashishpatel.netlify.app) 👋
 
-Ashish is a Technology Architect in the Cloud space. He has a strong background in software engineering, he has been coding with C#, and .NET Core for the past 12+ years. In recent times, Ashish has been focused on Multi-Cloud, DevOps, and SaaS development. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
+Ashish is a Technology Architect in the Cloud space. He has a strong background in software engineering, he has been coding with C#, and .NET Core for the past 12+ years. In recent times, Ashish has been focused on Multi-Cloud, Gen AI, and SaaS development. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
 
 
 
@@ -20,7 +20,8 @@ Ashish is a Technology Architect in the Cloud space. He has a strong background 
 <a title=".NET" href="https://medium.com/dotnet-hub"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a>
 <a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
 <a title="Terraform" href="https://medium.com/devops-mojo/tagged/terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
-<a title="GCP" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>
+<a title="AI" href="https://medium.com/ai-dispatcher"><img height="40" src="https://aashishpatel.netlify.app/img/portfolio/blogs/ai.jpg"></a>
+<!--<a title="GCP" href="https://iamaashishpatel.medium.com"><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a>-->
 
 
 <!--<a title="Docker" href="https://medium.com/devops-mojo/tagged/docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
@@ -62,7 +63,7 @@ Ashish is a Technology Architect in the Cloud space. He has a strong background 
 - [Awesome Azure](https://medium.com/awesome-azure)  <code><a title="Azure" href="https://medium.com/awesome-azure"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a></code>  (2.0k+ followers)
 - [DevOps Mojo](https://medium.com/devops-mojo)  <code><a title="Kubernetes" href="https://medium.com/devops-mojo"><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>  (1.2k+ followers)
 - [.NET Hub](https://medium.com/dotnet-hub)  <code><a title=".NET" href="https://medium.com/dotnet-hub"><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></a></code>  (2.6k+ followers)
-
+- [AI Dispatcher](https://medium.com/ai-dispatcher)  <code><a title="AI" href="https://medium.com/ai-dispatcher"><img height="20" src="https://aashishpatel.netlify.app/img/portfolio/blogs/ai.jpg"></a></code>  (just started)
 
 
 <br/>
