@@ -4,7 +4,7 @@ Ashish is a Technology Architect in the Cloud space. He has a strong background 
 
 
 
-- 🏆 AWS Community Builder ([6 times (2020-2025)](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.q=ashishkumar%2Bpatel))
+- 🏆 AWS Community Builder ([6 times, 2020-2026](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.q=ashishkumar%2Bpatel))
 - 👨‍💻 Move 🌐 to ☁️ 
 - ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (20k+ followers, 7m+ views)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (15+ certifications)
