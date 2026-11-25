@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ashish!](https://aashishpatel.netlify.app) 👋
 
-Ashish is a Technology Architect in the Cloud space. He has a strong background in software engineering, with over 13 years of experience coding in C# and .NET. In recent times, Ashish has been focused on Cloud and Gen AI development. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
+Ashish is a Technology Architect in the Cloud space. He has a strong background in software engineering, with over 14+ years of experience. In recent times, Ashish has been focused on Cloud and Gen AI development. He is energetic and a geek who loves his job. He lives and breathes all the technologies he works with.
 
 
 
@@ -8,7 +8,7 @@ Ashish is a Technology Architect in the Cloud space. He has a strong background 
 - 👨‍💻 Move 🌐 to ☁️ 
 - ✍️ Regularly writing technical blogs - [Medium](https://iamaashishpatel.medium.com/)    (20k+ followers, 7m+ views)
 - 🎖️ Accreditation - [Credly](https://www.credly.com/users/iamaashishpatel/)    (15+ certifications)
-- 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (13+ years)
+- 📜️ More about my experiences on [LinkedIn](https://www.linkedin.com/in/iamaashishpatel/)    (14+ years)
 <!--- 🌱 Learning DevOps technologies-->
 
 
@@ -45,12 +45,13 @@ Ashish is a Technology Architect in the Cloud space. He has a strong background 
 
 <a title="AWS Certified Solutions Architect – Professional" href="https://www.credly.com/badges/9b8fe629-dbab-45d0-bb8a-0057774fabda"><img height="60" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></a>
 <a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://learn.microsoft.com/en-us/users/iamaashishpatel/transcript/d825wu6z1xl08k8"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
-<a title="KCNA: Kubernetes and Cloud Native Associate" href="https://www.credly.com/badges/0983553b-8e13-4d40-a11d-68ea49f528ab"><img height="60" src="https://www.cncf.io/wp-content/uploads/2021/09/kcna_color.svg"></a>
-<a title="AWS Certified Advanced Networking – Specialty" href="https://www.credly.com/badges/86de2b5d-272c-4c21-a8a7-f31b5245cd99"><img height="60" src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png"></a>
+<a title="AWS Certified Generative AI Developer - Professional" href="https://www.credly.com/badges/f7774042-9b86-4ff5-8f23-ae1bf005d9b1"><img height="60" src="https://images.credly.com/size/680x680/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob"></a>
 <a title="AWS Certified Security – Specialty" href="https://www.credly.com/badges/cb50d9e7-c9cf-4e7f-8715-7a75e9d6f6e2"><img height="60" src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"></a>
 <a title="AWS Certified DevOps Engineer - Professional" href="https://www.credly.com/badges/0829e1f4-4954-4998-8ecb-2d4f5297e0f2"><img height="60" src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"></a>
-<a title="AWS Certified Solutions Architect – Associate" href="https://www.credly.com/badges/93d43637-fbdf-40b9-81c0-054bee0445a2"><img height="60" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
+<a title="AWS Certified Advanced Networking – Specialty" href="https://www.credly.com/badges/86de2b5d-272c-4c21-a8a7-f31b5245cd99"><img height="60" src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png"></a>
+<a title="KCNA: Kubernetes and Cloud Native Associate" href="https://www.credly.com/badges/0983553b-8e13-4d40-a11d-68ea49f528ab"><img height="60" src="https://www.cncf.io/wp-content/uploads/2021/09/kcna_color.svg"></a>
 <a title="Microsoft Certified: Azure DevOps Engineer Expert" href="https://learn.microsoft.com/en-us/users/iamaashishpatel/transcript/d825wu6z1xl08k8"><img height="60" src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"></a>
+<a title="AWS Certified Solutions Architect – Associate" href="https://www.credly.com/badges/93d43637-fbdf-40b9-81c0-054bee0445a2"><img height="60" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 <a title="Microsoft Certified: Azure Developer Associate" href="https://learn.microsoft.com/en-us/users/iamaashishpatel/transcript/d825wu6z1xl08k8"><img height="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"></a>
 <a title="Microsoft Certified: Azure Administrator Associate" href="https://learn.microsoft.com/en-us/users/iamaashishpatel/transcript/d825wu6z1xl08k8"><img height="60" src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"></a>
 <a title="MCP: Exam 486: Developing ASP.NET MVC Web Applications" href="https://www.credly.com/badges/a5246e36-00a6-4816-9cf6-1b8af57812ee"><img height="60" src="https://images.credly.com/size/680x680/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png"></a>
